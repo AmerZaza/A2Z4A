@@ -12,7 +12,7 @@ $resultsCount = 25; // Number of Results in Page
 
 
 //Google API
-$apiKey = 'AIzaSyBE1AygHnfN5li-B32BjjcD5-hua4dN9j4';
+$apiKey = '#############';
 $googleLang = 'de'; // Google autocomplete Language
 
 ?>
